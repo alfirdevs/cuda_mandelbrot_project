@@ -66,7 +66,7 @@ Custom example:
 ## Expected outputs
 
 After running in the CUDA lab, the project will produce:
-- rendered images in `data/output_images/`
+- screenshot for rendered images in `data/output_images/`
 - timing CSV in `results/timings.csv`
 - summary text in `results/summary.txt`
 - contact sheet in `proof/contact_sheet.png`
