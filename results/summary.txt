@@ -1,0 +1,4 @@
+Mandelbrot Batch Run Summary
+============================
+Images: 6
+CPU baseline first image (ms): 822.796

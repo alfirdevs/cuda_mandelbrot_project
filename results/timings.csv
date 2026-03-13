@@ -1,0 +1,7 @@
+image_id,width,height,max_iter,gpu_ms,cpu_ms,output_file
+0,640,480,300,,822.7958299999045,/mnt/data/cuda_mandelbrot_project/data/output_images/mandelbrot_ref_00.png
+1,640,480,300,,2139.220086000023,/mnt/data/cuda_mandelbrot_project/data/output_images/mandelbrot_ref_01.png
+2,640,480,300,,1819.1102370001317,/mnt/data/cuda_mandelbrot_project/data/output_images/mandelbrot_ref_02.png
+3,640,480,300,,403.88754700006757,/mnt/data/cuda_mandelbrot_project/data/output_images/mandelbrot_ref_03.png
+4,640,480,300,,3407.7044589998877,/mnt/data/cuda_mandelbrot_project/data/output_images/mandelbrot_ref_04.png
+5,640,480,300,,1036.123249999946,/mnt/data/cuda_mandelbrot_project/data/output_images/mandelbrot_ref_05.png

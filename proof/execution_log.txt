@@ -1,0 +1,1 @@
+Reference packaging log\n=======================\nCPU-generated preview outputs were created in this environment.\nRun ./run.sh in the CUDA lab to generate the final GPU execution log, timings, and screenshots.\n

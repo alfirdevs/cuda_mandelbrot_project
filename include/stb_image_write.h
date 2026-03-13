@@ -1,0 +1,1 @@
+// Optional placeholder only. This project writes PPM files directly.\n
