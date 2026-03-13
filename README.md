@@ -46,10 +46,10 @@ Custom example:
 
 ```bash
 ./mandelbrot_batch \
-  --width 4096 \
-  --height 4096 \
-  --max-iter 2000 \
-  --num-images 8 \
+  --width 9096 \
+  --height 9096 \
+  --max-iter 2500 \
+  --num-images 10 \
   --output-dir data/output_images \
   --compare-cpu 1
 ```
