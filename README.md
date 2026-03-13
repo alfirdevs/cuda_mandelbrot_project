@@ -90,5 +90,4 @@ This project implements a CUDA-accelerated batch Mandelbrot fractal renderer. Th
 
 ## Packaging note
 
-This repository includes **reference CPU-generated preview outputs** so the folder is complete and viewable immediately.  
 For final course submission, I ran `./run.sh` in the CUDA lab and used the generated GPU timings, terminal screenshot, and images as final proof of execution.
