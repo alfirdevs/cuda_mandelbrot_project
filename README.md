@@ -84,7 +84,7 @@ For each pixel:
 
 The GPU version maps each CUDA thread to one pixel. The CPU version uses nested loops as a baseline.
 
-## Suggested submission description
+## Submission description
 
 This project implements a CUDA-accelerated batch Mandelbrot fractal renderer. The Mandelbrot algorithm is highly parallel because each output pixel can be computed independently. The application renders multiple large images in one execution, compares GPU and CPU performance, and saves both visual outputs and timing artifacts. This demonstrates meaningful GPU acceleration on a computationally intensive image-generation task.
 
