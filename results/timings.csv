@@ -1,7 +1,11 @@
 image_id,width,height,max_iter,gpu_ms,cpu_ms,output_file
-0,640,480,300,,822.7958299999045,/mnt/data/cuda_mandelbrot_project/data/output_images/mandelbrot_ref_00.png
-1,640,480,300,,2139.220086000023,/mnt/data/cuda_mandelbrot_project/data/output_images/mandelbrot_ref_01.png
-2,640,480,300,,1819.1102370001317,/mnt/data/cuda_mandelbrot_project/data/output_images/mandelbrot_ref_02.png
-3,640,480,300,,403.88754700006757,/mnt/data/cuda_mandelbrot_project/data/output_images/mandelbrot_ref_03.png
-4,640,480,300,,3407.7044589998877,/mnt/data/cuda_mandelbrot_project/data/output_images/mandelbrot_ref_04.png
-5,640,480,300,,1036.123249999946,/mnt/data/cuda_mandelbrot_project/data/output_images/mandelbrot_ref_05.png
+0,9096,9096,2500,51.7642,90077.5,data/output_images/mandelbrot_00.ppm
+1,9096,9096,2500,131.484,-1,data/output_images/mandelbrot_01.ppm
+2,9096,9096,2500,35.3885,-1,data/output_images/mandelbrot_02.ppm
+3,9096,9096,2500,5.6255,-1,data/output_images/mandelbrot_03.ppm
+4,9096,9096,2500,52.5377,-1,data/output_images/mandelbrot_04.ppm
+5,9096,9096,2500,13.6621,-1,data/output_images/mandelbrot_05.ppm
+6,9096,9096,2500,17.0288,-1,data/output_images/mandelbrot_06.ppm
+7,9096,9096,2500,65.6277,-1,data/output_images/mandelbrot_07.ppm
+8,9096,9096,2500,51.9324,-1,data/output_images/mandelbrot_08.ppm
+9,9096,9096,2500,131.428,-1,data/output_images/mandelbrot_09.ppm
